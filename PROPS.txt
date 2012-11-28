@@ -1,0 +1,9 @@
+#
+# From whom much hath been received, much props am giv'n.
+#
+
+Renny Koshy, Unified Arts -- FreeMarker processor
+
+The Closure Compiler Authors -- Closure
+The Visigoth Software Society -- FreeMarker
+Hampton Catlin, Nathan Weizenbaum, and Chris Eppstein -- SASS
