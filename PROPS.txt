@@ -2,7 +2,7 @@
 # From whom much hath been received, much props am giv'n.
 #
 
-Renny Koshy, Unified Arts -- FreeMarker processor
+Renny Koshy, Unified Arts -- Brick preprocessor + FreeMarker processor
 
 The Closure Compiler Authors -- Closure
 The Visigoth Software Society -- FreeMarker
